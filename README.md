@@ -1,7 +1,6 @@
 ![](cat.gif)
 ![](cat.gif)
 ![](cat.gif)
-![](cat.gif)
 <!--
 **gulzar1996/gulzar1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
